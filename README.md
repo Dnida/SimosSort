@@ -4,7 +4,7 @@ I use this tool to sort through all my datalogs taken from the SimosTools.... To
 
 ## Description
 
-This script will sort through a folder, and rename the csv files to the name of your flashed file + the date.
+This script will sort through a folder, and rename the csv files to the name of your flashed file(Found in the csv) + the date.
 
 I find this way more easy to sort so you're not potentially looking at incorrect files
 
